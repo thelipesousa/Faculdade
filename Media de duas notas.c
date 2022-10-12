@@ -7,7 +7,8 @@ int main()
     setlocale(LC_ALL,"portuguese");
 
     int nota1, nota2, media;
-
+    
+    printf("\n\t<<<<<<MÉDIA DE DUAS NOTAS>>>>>>");
     printf("\nDigite a primeira nota: ");
     scanf("%d",&nota1);
     printf("\nDigite a segunda nota: ");
